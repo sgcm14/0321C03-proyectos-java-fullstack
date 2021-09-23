@@ -1,0 +1,8 @@
+DATOS BASE DE DATOS
+USUARIO: root
+CONTRASEÑA: root
+URL: localhost
+PUERTO: 3306
+BD: mascota
+HOST:localhost
+UNIDAD DE PERSISTENCIA: MascotaPU
