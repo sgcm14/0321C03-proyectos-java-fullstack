@@ -4,10 +4,10 @@
 	- Establecer como usuario y contraseña correctos los siguientes:
 	- **Usuario:** admin y **Contraseña:** 123Prueba
 
-![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios1/doc/pantalla1.jpg)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios4/doc/pantalla1.jpg)
 > Pantalla del Proyecto
 
-![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios1/doc/pantalla2.jpg)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios4/doc/pantalla2.jpg)
 
 > Pantalla del Proyecto con datos
 
