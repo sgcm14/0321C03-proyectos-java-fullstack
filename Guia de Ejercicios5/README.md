@@ -7,10 +7,10 @@ Se necesita un programa para gestionar los contactos de una agenda electrónica.
 - c. El programa debe permitir cargar valores en una determinada posición del vector (al hacer click en el botón cargar) y recorrer el vector encontrando los datos cargados.
 - d. Al hacer click  en las fechas de derecha e izquierda se debe incrementar (o decrementar) el índice y con ello los datos correspondientes  al usuario. (La misma lógica se utiliza para cargar los datos)
 
-![](https://raw.githubusercontent.com/sgcm14/Polo-TIC-misiones/master/Guia%20de%20Ejercicios5/doc/pantalla1.jpg)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios5/doc/pantalla1.jpg)
 > Pantalla del Proyecto
 
-![](https://raw.githubusercontent.com/sgcm14/Polo-TIC-misiones/master/Guia%20de%20Ejercicios5/doc/pantalla2.jpg)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios5/doc/pantalla2.jpg)
 > Pantalla del Proyecto con datos
 
 

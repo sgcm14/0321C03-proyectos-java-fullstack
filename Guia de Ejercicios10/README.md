@@ -5,7 +5,7 @@ Como los datos deben permanecer en el tiempo y a futuro los empleados de la pelu
 A partir de estos datos recolectados:
 • Realizar el desarrollo de una aplicación de escritorio que sea capaz de registrar en una base de datos los datos que se ingresen desde una interfaz gráfica de usuario. Para este desarrollo tener en cuenta los conceptos del MODELO DE CAPAS.
 
-![](https://raw.githubusercontent.com/sgcm14/Polo-TIC-misiones/master/Guia%20de%20Ejercicios10/doc/pantalla1.jpg)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios10/doc/pantalla1.jpg)
 > Pantalla del Proyecto
 
 
