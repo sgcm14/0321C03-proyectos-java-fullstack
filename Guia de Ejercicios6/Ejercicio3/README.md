@@ -8,10 +8,10 @@ Se solicita:
 * Establecer la estructura que consideren apropiada para este escenario y llevarla a cabo el correspondiente DER. Establecer primary keys, foreign keys, relaciones, atributos,
 entidades, etc
 
-![](https://raw.githubusercontent.com/sgcm14/Polo-TIC-misiones/master/Guia%20de%20Ejercicios6/Ejercicio3/Ejercicio3.png)
+![](https://raw.githubusercontent.com/sgcm14/proyectos-java-fullstack/master/Guia%20de%20Ejercicios6/Ejercicio3/Ejercicio3.png)
 > Diagrama Entidad Relación (DER)
 
 
 **Realizado por :** Sammy Gigi Cantoral Montejo (sgcm14)
 
-![](https://edteam-media.s3.amazonaws.com/users/avatar/16f3b00c-18cf-43f5-af5f-f9692fa3e5f1.jpg)
+<img src ="https://raw.githubusercontent.com/sgcm14/sgcm14/main/sammy.jpg" width="200">
