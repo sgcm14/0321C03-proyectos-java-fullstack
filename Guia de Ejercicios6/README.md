@@ -2,19 +2,36 @@
 
 ### Ejercicio 1:
 Una  empresa  desea  una  base  de  datos  para  gestionar  los  departamentos  en  los  cuales  se encuentra cada uno de sus empleados. Para ello necesita la creación de dos tablas: 
-* Empleados  que debe contener los datos: Nº  de legajo, dni, apellido, nombre, fecha de nacimiento, fecha de incorporación, cargo, sueldo neto.
-*  Departamentos  que debe contener  los datos: ID departamento, nombre  departamento, dirección departamento.
+* Empleados  que debe contener los datos:
+    - Nº  de legajo
+    - dni
+    - apellido
+    - nombre
+    - fecha de nacimiento
+    - fecha de incorporación
+    - cargo
+    - sueldo neto
+*  Departamentos  que debe contener  los datos:
+    - ID departamento
+    - nombre  departamento
+    - dirección departamento
 
 Se solicita crear una nueva base de datos llamada  “emple_dep”, a partir de ella, realizar el Diagrama Entidad Relación (DER) para el presente escenario. Asignar al mismo tiempo las relaciones existentes entre ambas tablas.
 
 * Consultas SQL:
 A partir del escenario planteado en el Ejercicio Nº 1, realizar las siguientes consultas mediante SQL:
-a.  Obtener la lista completa de todos los empleados.
-b.  Obtener la lista completa de todos los departamentos.
-c.  Obtener los empleados que tengan el cargo “secretario”.
-d.  Obtener una lista de los nombres y sueldos de cada uno de los empleados.
-e.  Obtener los datos de los empleados que tengan el cargo de “vendedores” y que su sueldo sea mayor a $25.000.
-f.  Obtener una lista con el nombre, cargo y salario de cada uno de los empleados. Ordenar esta lista por salario.
+
+  a.  Obtener la lista completa de todos los empleados.
+  
+  b.  Obtener la lista completa de todos los departamentos.
+  
+  c.  Obtener los empleados que tengan el cargo “secretario”.
+  
+  d.  Obtener una lista de los nombres y sueldos de cada uno de los empleados.
+  
+  e.  Obtener los datos de los empleados que tengan el cargo de “vendedores” y que su sueldo sea mayor a $25.000.
+  
+  f.  Obtener una lista con el nombre, cargo y salario de cada uno de los empleados. Ordenar esta lista por salario.
 
 ### Ejercicio 2:
 Un club de deportes necesita de una base de datos para gestionar el torneo de tenis que realizará. 
@@ -38,11 +55,17 @@ Asignar las correspondientes primary keys, foreign keys y tipos de datos.
 
 * Consultas SQL:
 A partir del escenario planteado en el  Ejercicio Nº 2, realizar las siguientes consultas mediante SQL:
+
 a.  Obtener la lista completa de todos los participantes.
+
 b.  Obtener la lista completa de todas las categorías.
+
 c.  Obtener todas las participantes mujeres.
+
 d.  Obtener el nombre y apellido de las mujeres inscriptas en la categoría “Damas B”.
+
 e.  Obtener los datos de los participantes que tengan una edad entre 25 y 37 años.
+
 f.  Obtener la lista completa de inscripciones, especificando nombre y apellido de cada uno de los inscriptos.
 
 ### Ejercicio 3:
@@ -50,17 +73,26 @@ Una biblioteca necesita una base de datos para gestionar los préstamos de libro
 Como  los  encargados  de  los  préstamos  no  conocen  mucho  de  informática,  solicitan  una sugerencia de estructura para el almacenamiento de los datos en la nueva base de datos. La bibliotecaria a cargo manifestó que necesitan principalmente conocer el nro de préstamo, qué día se llevó a cabo, los datos de quien lo solicitó, la fecha de devolución del préstamo, qué libro o libros solicitó, qué cantidad de esos libros y si el préstamo posee una multa por demora o no.
 
 Se solicita:
+
 ✓  Crear una base de datos que se llame biblioteca.
+
 ✓  Establecer la estructura que consideren apropiada para este escenario y llevarla a cabo el correspondiente DER. Establecer primary keys, foreign keys, relaciones, atributos,
 entidades, etc
 
 * Consultas SQL:
+  
 ✓ Insertar registros en las tablas de la estructura (mínimamente 10 registros por tabla).
+
 ✓  Modificar las cantidades existentes de un determinado libro.
+
 ✓  Modificar los datos personales de algún socio.
+
 ✓  Eliminar un  socio que se haya dado de baja. Eliminar de igual manera los préstamos que tenga asociados.
+
 ✓  Obtener todos los socios que tengan alguna multa en algún préstamo.
+
 ✓  Obtener todos los préstamos que hayan sido posteriores a la fecha 23/11/2018.
+
 ✓  Obtener todos los libros que tengan una cantidad mayor a 5.
 
 
